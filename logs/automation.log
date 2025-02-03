@@ -1,0 +1,33 @@
+20:07:35.009 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+20:07:35.021 [main] INFO  testCases.TC002_LoginTest - launched application
+20:07:35.161 [main] INFO  testCases.TC002_LoginTest - Clicked on my account
+20:07:36.080 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+20:07:36.080 [main] INFO  testCases.TC002_LoginTest - Page loaded succesfully
+20:07:38.231 [main] INFO  testCases.TC002_LoginTest - Logged in succesfully
+20:07:39.384 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+20:15:11.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+20:15:38.952 [main] INFO  testCases.TC_001account_reg_page - launched application
+20:15:39.205 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+20:15:44.413 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+20:15:47.775 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+20:15:47.837 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
+20:16:21.692 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+20:16:21.696 [main] INFO  testCases.TC002_LoginTest - launched application
+20:16:21.919 [main] INFO  testCases.TC002_LoginTest - Clicked on my account
+20:16:22.332 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+20:16:22.332 [main] INFO  testCases.TC002_LoginTest - Page loaded succesfully
+20:16:23.992 [main] INFO  testCases.TC002_LoginTest - Logged in succesfully
+20:16:24.902 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+20:19:16.571 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+20:20:08.227 [main] INFO  testCases.TC_001account_reg_page - launched application
+20:20:08.479 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+20:20:32.642 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+20:20:34.870 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+20:20:34.957 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
+20:21:11.743 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+20:21:11.743 [main] INFO  testCases.TC002_LoginTest - launched application
+20:21:11.951 [main] INFO  testCases.TC002_LoginTest - Clicked on my account
+20:21:12.448 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+20:21:12.448 [main] INFO  testCases.TC002_LoginTest - Page loaded succesfully
+20:21:13.693 [main] INFO  testCases.TC002_LoginTest - Logged in succesfully
+20:21:14.580 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****

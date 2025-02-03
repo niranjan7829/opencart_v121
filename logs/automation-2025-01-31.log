@@ -1,0 +1,65 @@
+11:23:32.369 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+11:23:32.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml
+
+11:25:48.991 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+11:25:49.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml
+
+11:28:10.584 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+11:28:10.879 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml
+
+11:30:22.249 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+11:30:22.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml
+
+11:34:21.524 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+11:34:21.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml
+
+11:34:56.211 [main] INFO  testCases.TC_001account_reg_page - launched application
+11:34:56.515 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+11:35:03.689 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+11:35:06.066 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+11:35:06.139 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
+11:37:33.714 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml"
+11:37:34.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml
+
+11:38:20.605 [main] INFO  testCases.TC_001account_reg_page - launched application
+11:38:20.863 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+11:38:28.671 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+11:38:30.858 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+11:38:30.925 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
+11:39:13.801 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+11:39:13.804 [main] INFO  testCases.TC002_LoginTest - launched application
+11:39:13.981 [main] INFO  testCases.TC002_LoginTest - Clicked on my account
+11:39:14.568 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+11:39:14.568 [main] INFO  testCases.TC002_LoginTest - Page loaded succesfully
+11:39:16.505 [main] INFO  testCases.TC002_LoginTest - Logged in succesfully
+11:39:18.042 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+13:12:02.858 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml"
+13:12:03.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml
+
+13:12:54.751 [main] INFO  testCases.TC_001account_reg_page - launched application
+13:12:54.960 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+13:13:04.526 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+13:13:07.760 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+13:13:07.817 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
+13:14:24.235 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+13:14:24.235 [main] INFO  testCases.TC002_LoginTest - launched application
+13:14:24.388 [main] INFO  testCases.TC002_LoginTest - Clicked on my account
+13:14:25.192 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+13:14:25.192 [main] INFO  testCases.TC002_LoginTest - Page loaded succesfully
+13:14:26.526 [main] INFO  testCases.TC002_LoginTest - Logged in succesfully
+13:14:27.746 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+14:48:46.793 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml"
+14:48:47.283 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\grouping.xml
+
+14:49:05.030 [main] INFO  testCases.TC_001account_reg_page - launched application
+14:49:05.152 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+14:49:08.588 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+14:49:09.985 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details

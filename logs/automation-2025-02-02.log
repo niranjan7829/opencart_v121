@@ -1,0 +1,52 @@
+20:02:50.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:02:50.688 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:02:50.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:02:50.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:02:50.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:02:50.722 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:02:50.734 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:02:50.734 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:02:50.864 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:02:52.116 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:02:52.116 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:16.239 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:03:20.151 [main] INFO  testCases.TC_003_Login_DataVerify - ***** Finished TC_003_LoginDDT ******
+20:03:20.151 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:03:20.151 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:03:20.274 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:03:20.907 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:03:20.907 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:22.157 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:03:25.841 [main] INFO  testCases.TC_003_Login_DataVerify - ***** Finished TC_003_LoginDDT ******
+20:03:25.841 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:03:25.841 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:03:25.982 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:03:27.278 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:03:27.278 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:28.644 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:03:32.578 [main] INFO  testCases.TC_003_Login_DataVerify - ***** Finished TC_003_LoginDDT ******
+20:03:32.578 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:03:32.578 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:03:32.671 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:03:33.199 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:03:33.199 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:34.427 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:03:44.598 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:03:44.598 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:03:44.714 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:03:45.362 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:03:45.362 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:46.509 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:03:50.847 [main] INFO  testCases.TC_003_Login_DataVerify - ***** Finished TC_003_LoginDDT ******
+20:03:50.848 [main] INFO  testCases.TC_003_Login_DataVerify - ****** Starting TC_003_LoginTest *****
+20:03:50.848 [main] INFO  testCases.TC_003_Login_DataVerify - launched application
+20:03:50.938 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on my account
+20:03:51.703 [main] INFO  testCases.TC_003_Login_DataVerify - Clicked on Login
+20:03:51.703 [main] INFO  testCases.TC_003_Login_DataVerify - Page loaded succesfully
+20:03:52.987 [main] INFO  testCases.TC_003_Login_DataVerify - Logged in succesfully
+20:05:35.178 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aishwarya Teggi\eclipse-workspace\opencart_v121\master.xml"
+20:07:02.169 [main] INFO  testCases.TC_001account_reg_page - launched application
+20:07:02.430 [main] INFO  testCases.TC_001account_reg_page - Clicked on my account
+20:07:07.709 [main] INFO  testCases.TC_001account_reg_page - Clicked on Register
+20:07:09.863 [main] INFO  testCases.TC_001account_reg_page - Succesfully entered details
+20:07:09.922 [main] INFO  testCases.TC_001account_reg_page - Account created and messgae is validated
